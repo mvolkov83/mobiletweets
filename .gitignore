@@ -1,0 +1,6 @@
+qooxdoo-2.1.2-sdk
+build/
+.settings/
+source/script/mobile*js
+qooxdoo-2.1.1-sdk
+api/
